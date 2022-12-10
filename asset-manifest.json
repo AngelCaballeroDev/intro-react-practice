@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/intro-react-practice/static/css/main.5619688f.css",
+    "main.js": "/intro-react-practice/static/js/main.cf7d6b28.js",
+    "index.html": "/intro-react-practice/index.html",
+    "static/media/cruz.svg": "/intro-react-practice/static/media/cruz.7547ed76b90d5776991c702ed4c38e65.svg",
+    "static/media/check.svg": "/intro-react-practice/static/media/check.a9423def4c7e9f1d791c832b06b33ee6.svg",
+    "main.5619688f.css.map": "/intro-react-practice/static/css/main.5619688f.css.map",
+    "main.cf7d6b28.js.map": "/intro-react-practice/static/js/main.cf7d6b28.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5619688f.css",
+    "static/js/main.cf7d6b28.js"
+  ]
+}
